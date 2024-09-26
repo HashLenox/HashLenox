@@ -1,11 +1,19 @@
-
-
 <h1 align="center">Hi 👋, I'm Hashini Lenox</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashlenox" alt="hashlenox" /></a> </p>
 
 - 🔭 I’m currently working on **instagram-clone**
+
+- 🌱 I’m currently learning **React.js, Next.js, JQuery, Spring Boot**
+
+- 👯 I’m looking to collaborate on [ceylon_wander](https://github.com/Ceylon-Lab/ceylon_wander)
+
+- 💬 Ask me about **Frontend development, UI/UX design, JavaScript, and Laravel**
+
+- 📫 How to reach me **hashinilenox0324@gmail.com**
+
+- ⚡ Fun fact **After a night of coding, I sometimes dream in code, and my dreams always have a syntax error!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
