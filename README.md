@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hashini Lenox</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **instagram-clone**
+
 
 - 🌱 I’m currently learning **React.js, Next.js, JQuery, Spring Boot**
 
