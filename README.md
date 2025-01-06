@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, Next.js, JQuery, Spring Boot and WordPress**
 
-- 👯 I’m looking to collaborate on [ZUSE TECHNOLOGIES]([[https://github.com/Ceylon-Lab/ceylon_wander](https://github.com/Zuse-Technologies)])
+- 👯 I’m looking to collaborate on [ZUSE TECHNOLOGIES]([https://github.com/Zuse-Technologies])
 
 - 💬 Ask me about **Frontend development, UI/UX design, JavaScript, Laravel, and Laravel Nova**
 
