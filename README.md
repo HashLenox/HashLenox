@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Gate Keeper](https://github.com/Zuse-Technologies/ZuseGatekeeper)
 
-- 🌱 I’m currently learning **React.js, Next.js, JQuery, Spring Boot and WordPress**
+- 🌱 I’m currently learning **React.js, Next.js, JQuery, Node.js and Spring Boot**
 
 - 👯 I’m looking to collaborate on **Test**
 
