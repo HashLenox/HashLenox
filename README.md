@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **React.js, Next.js, JQuery, Node.js and Spring Boot**
 
-- 👯 I’m looking to collaborate on **Test**
-
 - 📫 How to reach me **hashini.sudeshika98@gmail.com**
 
 - ⚡ Fun fact **After a night of coding, I sometimes dream in code, and my dreams always have a syntax error!**
